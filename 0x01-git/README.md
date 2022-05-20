@@ -1,1 +1,1 @@
-second readme
+updated it from github interface
